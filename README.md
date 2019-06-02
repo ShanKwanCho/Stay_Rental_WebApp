@@ -3,7 +3,7 @@ Stay_Rental_WebApp | SFSU_CSC_648 Software Engineering | Full-stack
 
 This is the final project for CSC_648 Software Engineering class.
 In this class, practiced as in software development life cycle; working with team, project development, management and maintainance of the fullstack application "Stay" Home/Apartment Rental web application. 
-
+My role in this project included maintaining back-end service; Google Cloud Platform, hosting service, maintaining Database, helping implementation features, Documentation, sharing software development information and cheering up team members. 
 
 
 More technical details: 
