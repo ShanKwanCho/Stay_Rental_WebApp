@@ -1,9 +1,3 @@
-# Stay_Rental_WebApp
-Stay_Rental_WebApp | SFSU_CSC_648 Software Engineering | Full-stack
-
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
